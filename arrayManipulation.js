@@ -17,7 +17,7 @@ function processArray(arr) {
 }
 
 /**
- * Formats an array of strings based on corresponding numbers.
+ * Formats an array of strings based on corresponding number.
  *
  * @param {string[]} strArr - The array of strings to format.
  * @param {number[]} numArr - The array of numbers processed by processArray.
